@@ -1,0 +1,10 @@
+name: juggernaut
+main: com.skyerzz.juggernaut.Juggernaut
+version: 1.0.0
+author: skyerzz
+description: Juggernaut game
+commands:
+  juggernaut:
+    description: command
+    usage: /juggernaut
+    aliases: [jugg]
